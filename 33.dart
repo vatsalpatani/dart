@@ -1,6 +1,6 @@
 class Hello {
   parin() {
-    print('This is a Parin Solanki\tThis is a Parin Solanki');
+    print('This is a Parin Solanki\nThis is a Parin Solanki');
   }
   // printing();
 }
